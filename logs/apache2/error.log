@@ -1,0 +1,238 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun May 03 09:33:12.043717 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun May 03 09:33:12.043808 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun May 03 09:42:13.660175 2020] [core:notice] [pid 1] AH00052: child pid 29 exit signal Interrupt (2)
+[Mon May 04 04:03:28.784256 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_pgsql.dll' (tried: /usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pdo_pgsql.dll (/usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pdo_pgsql.dll: cannot open shared object file: No such file or directory), /usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pdo_pgsql.dll.so (/usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pdo_pgsql.dll.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pgsql.dll' (tried: /usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pgsql.dll (/usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pgsql.dll: cannot open shared object file: No such file or directory), /usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pgsql.dll.so (/usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pgsql.dll.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Mon May 04 04:33:36.173781 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon May 04 04:33:36.173828 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 04 04:33:46.082259 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_pgsql.dll' (tried: /usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pdo_pgsql.dll (/usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pdo_pgsql.dll: cannot open shared object file: No such file or directory), /usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pdo_pgsql.dll.so (/usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pdo_pgsql.dll.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pgsql.dll' (tried: /usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pgsql.dll (/usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pgsql.dll: cannot open shared object file: No such file or directory), /usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pgsql.dll.so (/usr/local/lib/php/extensions/no-debug-non-zts-20190902/php_pgsql.dll.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Mon May 04 04:34:27.314444 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon May 04 04:34:27.314537 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 04 04:40:34.017598 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon May 04 04:44:04.318686 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon May 04 04:44:04.318770 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 04 05:24:26.113825 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon May 04 05:24:48.403991 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon May 04 05:24:48.404038 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 04 05:24:49.867960 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon May 04 05:33:07.107057 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon May 04 05:33:07.107123 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 04 05:36:23.292045 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon May 04 05:42:16.442781 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon May 04 05:42:16.442857 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 05 07:44:32.706995 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue May 05 16:28:57.502361 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue May 05 16:28:57.502426 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu May 07 09:01:27.157417 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri May 08 04:36:10.038781 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Fri May 08 04:36:10.038838 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri May 08 07:32:09.820762 2020] [autoindex:error] [pid 18] [client 172.20.0.1:48926] AH01276: Cannot serve directory /var/www/html/pizza/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri May 08 07:32:39.077287 2020] [autoindex:error] [pid 20] [client 172.20.0.1:48950] AH01276: Cannot serve directory /var/www/html/pizza/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri May 08 07:36:43.190290 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri May 08 08:51:56.570624 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Fri May 08 08:51:56.570711 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon May 11 06:18:42.724095 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon May 11 16:12:57.666579 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon May 11 16:12:57.666620 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 12 06:27:26.111661 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue May 12 13:23:55.311890 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue May 12 13:23:55.311937 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 12 13:23:55.315957 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue May 12 13:24:04.026024 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue May 12 13:24:04.026068 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed May 13 08:10:22.223418 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat May 16 08:42:43.845953 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sat May 16 08:42:43.846029 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 16 17:27:00.919903 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat May 16 17:33:55.469403 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sat May 16 17:33:55.469470 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 16 17:34:21.258620 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat May 16 17:34:30.894547 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sat May 16 17:34:30.894612 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 16 17:34:35.552893 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat May 16 17:34:45.209745 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sat May 16 17:34:45.209821 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 16 17:35:23.965289 2020] [core:alert] [pid 17] [client 172.21.0.1:36040] /var/www/html/beema/public/.htaccess: RewriteEngine not allowed here, referer: http://localhost:8081/login
+[Sat May 16 17:35:51.547813 2020] [core:alert] [pid 20] [client 172.21.0.1:36288] /var/www/html/beema/public/.htaccess: RewriteEngine not allowed here
+[Sat May 16 17:35:56.272674 2020] [autoindex:error] [pid 21] [client 172.21.0.1:36290] AH01276: Cannot serve directory /var/www/html/beema/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat May 16 17:36:23.125790 2020] [autoindex:error] [pid 22] [client 172.21.0.1:36554] AH01276: Cannot serve directory /var/www/html/beema/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat May 16 17:36:25.447145 2020] [autoindex:error] [pid 22] [client 172.21.0.1:36554] AH01276: Cannot serve directory /var/www/html/beema/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat May 16 17:36:50.706253 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat May 16 17:37:00.646740 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sat May 16 17:37:00.646817 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 16 17:37:01.979243 2020] [autoindex:error] [pid 17] [client 172.22.0.1:52106] AH01276: Cannot serve directory /var/www/html/beema/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat May 16 17:37:04.937128 2020] [autoindex:error] [pid 17] [client 172.22.0.1:52106] AH01276: Cannot serve directory /var/www/html/beema/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat May 16 17:37:06.053449 2020] [autoindex:error] [pid 17] [client 172.22.0.1:52106] AH01276: Cannot serve directory /var/www/html/beema/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat May 16 17:37:06.666545 2020] [autoindex:error] [pid 17] [client 172.22.0.1:52106] AH01276: Cannot serve directory /var/www/html/beema/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat May 16 17:37:09.754602 2020] [autoindex:error] [pid 17] [client 172.22.0.1:52106] AH01276: Cannot serve directory /var/www/html/beema/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat May 16 17:37:10.832077 2020] [autoindex:error] [pid 17] [client 172.22.0.1:52106] AH01276: Cannot serve directory /var/www/html/beema/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sat May 16 17:37:45.914159 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat May 16 17:37:54.968667 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sat May 16 17:37:54.968736 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 16 17:37:58.764212 2020] [core:alert] [pid 16] [client 172.23.0.1:51684] /var/www/html/pizza/public/.htaccess: RewriteEngine not allowed here
+[Sat May 16 17:38:01.246313 2020] [core:alert] [pid 17] [client 172.23.0.1:51686] /var/www/html/pizza/public/.htaccess: RewriteEngine not allowed here
+[Sat May 16 17:38:02.462082 2020] [core:alert] [pid 18] [client 172.23.0.1:51706] /var/www/html/pizza/public/.htaccess: RewriteEngine not allowed here
+[Sat May 16 17:38:03.729849 2020] [core:alert] [pid 20] [client 172.23.0.1:51718] /var/www/html/pizza/public/.htaccess: RewriteEngine not allowed here
+[Sat May 16 17:38:19.209059 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat May 16 17:38:27.641458 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sat May 16 17:38:27.641515 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 16 17:38:31.003268 2020] [core:alert] [pid 18] [client 172.24.0.1:49214] /var/www/html/pizza/public/.htaccess: RewriteEngine not allowed here
+[Sat May 16 17:38:33.461022 2020] [core:alert] [pid 19] [client 172.24.0.1:49212] /var/www/html/pizza/public/.htaccess: RewriteEngine not allowed here
+[Sat May 16 17:38:34.539811 2020] [core:alert] [pid 21] [client 172.24.0.1:49244] /var/www/html/pizza/public/.htaccess: RewriteEngine not allowed here
+[Sat May 16 17:38:35.093157 2020] [core:alert] [pid 20] [client 172.24.0.1:49256] /var/www/html/pizza/public/.htaccess: RewriteEngine not allowed here
+[Sat May 16 17:38:46.645381 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat May 16 17:39:03.705356 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sat May 16 17:39:03.705444 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 16 17:54:46.563130 2020] [core:notice] [pid 1] AH00052: child pid 33 exit signal Interrupt (2)
+[Sat May 16 18:03:40.055076 2020] [core:notice] [pid 1] AH00052: child pid 39 exit signal Interrupt (2)
+[Sat May 16 18:41:03.176355 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun May 17 01:12:16.336791 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun May 17 01:12:16.336859 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun May 17 02:14:50.609125 2020] [php7:notice] [pid 28] [client 172.25.0.1:35648] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://localhost/wordpress/wp-admin/setup-config.php?step=1
+[Sun May 17 02:15:25.395289 2020] [php7:notice] [pid 21] [client 172.25.0.1:36008] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://localhost/wordpress/wp-admin/setup-config.php?step=1
+sh: 1: -t: not found
+[Sun May 17 16:28:05.234868 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.236703 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.237532 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.238335 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.239176 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.239983 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.243338 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.244260 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.245115 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.245934 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.246784 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.247622 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.248498 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.249476 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.250563 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.251884 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.253083 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.254068 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.255234 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.256224 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.257189 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.258061 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.259280 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.260662 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.305052 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.318930 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.347083 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:28:05.365301 2020] [php7:notice] [pid 43] [client 172.25.0.1:38460] Can not resize image, please installed php-gd, referer: http://localhost/wordpress/wp-admin/plugins.php?plugin_status=all&paged=1&s
+[Sun May 17 16:35:52.449409 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun May 17 16:42:46.493256 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun May 17 16:42:46.493321 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun May 17 21:20:57.656927 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri May 22 09:32:56.142154 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Fri May 22 09:32:56.142207 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat May 23 04:23:15.245465 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 02 02:17:13.520897 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue Jun 02 02:17:13.520961 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Jun 02 03:15:38.039088 2020] [autoindex:error] [pid 21] [client 172.25.0.1:51544] AH01276: Cannot serve directory /var/www/html/envapp/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Jun 02 03:15:40.629116 2020] [autoindex:error] [pid 21] [client 172.25.0.1:51544] AH01276: Cannot serve directory /var/www/html/envapp/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Jun 02 03:15:41.828811 2020] [autoindex:error] [pid 21] [client 172.25.0.1:51544] AH01276: Cannot serve directory /var/www/html/envapp/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Jun 02 03:15:49.475839 2020] [autoindex:error] [pid 23] [client 172.25.0.1:51560] AH01276: Cannot serve directory /var/www/html/envapp/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Jun 02 03:36:50.073951 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 02 12:25:49.940137 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue Jun 02 12:25:49.940219 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Jun 02 13:17:44.226989 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 07 03:09:27.062408 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jun 07 03:09:27.062467 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 07 03:21:42.034709 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jun 07 03:21:42.034784 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jun 07 03:22:06.099565 2020] [autoindex:error] [pid 16] [client 172.19.0.1:46008] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:23:03.163842 2020] [autoindex:error] [pid 19] [client 172.19.0.1:46490] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:23:04.277438 2020] [autoindex:error] [pid 19] [client 172.19.0.1:46490] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:23:09.570760 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 07 03:23:18.181594 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jun 07 03:23:18.181655 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jun 07 03:26:08.767258 2020] [autoindex:error] [pid 20] [client 172.19.0.1:48026] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:26:11.325385 2020] [autoindex:error] [pid 20] [client 172.19.0.1:48026] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:26:39.718976 2020] [autoindex:error] [pid 16] [client 172.19.0.1:48284] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:26:42.251689 2020] [autoindex:error] [pid 16] [client 172.19.0.1:48284] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:26:43.188348 2020] [autoindex:error] [pid 16] [client 172.19.0.1:48284] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:26:44.175789 2020] [autoindex:error] [pid 16] [client 172.19.0.1:48284] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:27:15.167179 2020] [autoindex:error] [pid 19] [client 172.19.0.1:48590] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:28:33.967211 2020] [autoindex:error] [pid 18] [client 172.19.0.1:49188] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:29:59.331653 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 07 03:38:28.674375 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jun 07 03:38:28.674434 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jun 07 03:38:36.401672 2020] [autoindex:error] [pid 16] [client 172.19.0.1:54516] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jun 07 03:40:32.859423 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 07 03:56:01.762806 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jun 07 03:56:01.762871 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 07 07:01:08.982162 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jun 07 07:01:08.983622 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 08 06:57:56.203852 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jun 08 06:57:56.207782 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 08 22:22:10.321904 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jun 08 22:22:10.324337 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 09 04:43:27.871778 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue Jun 09 04:43:27.874932 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 09 06:18:32.692104 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue Jun 09 06:18:32.695315 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Jun 09 10:44:41.566639 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 10 10:50:10.479082 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jun 10 10:50:10.480197 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 10 11:27:29.417963 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jun 10 11:27:29.420970 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Jun 11 03:09:52.097143 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Thu Jun 11 03:09:52.101601 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Jun 11 06:43:02.656118 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Thu Jun 11 06:43:02.657815 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Jun 11 06:58:18.438873 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Thu Jun 11 06:58:18.440528 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jun 14 05:55:45.107102 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jun 14 05:55:45.107606 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jun 15 04:36:49.305957 2020] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jun 15 04:37:42.385049 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jun 15 04:37:42.385735 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jun 16 09:26:02.684235 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue Jun 16 09:26:02.685750 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
